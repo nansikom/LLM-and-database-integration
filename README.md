@@ -2,7 +2,7 @@
 This project integrates a large language model (LLM) with the Chinook database to provide insightful interactions with the data.
 The application is built using several modern Python libraries to handle both the LLM and the communication with the database.
 
-##Requirements
+##Requirements(Technology needed)
 The following Python libraries are required to run the application:
 
 makefile
