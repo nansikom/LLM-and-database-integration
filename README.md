@@ -119,7 +119,14 @@ urllib3==2.2.3
 watchdog==5.0.3
 yarl==1.17.1
 zipp==3.20.2
-Setting Up the Project
+## Technology used
+Python
+Java script
+Html
+SQL
+SQLalchemy
+Postgres DB
+## Setting Up the Project
 Clone the repository:
 
 bash
