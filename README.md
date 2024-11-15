@@ -169,4 +169,4 @@ python app.py
 For postgres database, download the database
 Save the Northwind.sql file
 Connect to database
-Run python app.py
+Run python app.py to test web interface with database
