@@ -1,8 +1,8 @@
-##LLM with Database Integration (Chinook)
+## LLM with Database Integration (Chinook)
 This project integrates a large language model (LLM) with the Chinook database to provide insightful interactions with the data.
 The application is built using several modern Python libraries to handle both the LLM and the communication with the database.
 
-##Requirements(Technology needed)
+## Requirements(Technology needed)
 The following Python libraries are required to run the application:
 
 makefile
@@ -142,7 +142,7 @@ Copy code
 python -m venv venv
 Activate the virtual environment:
 
-##On Windows:
+## On Windows:
 bash
 Copy code
 venv\Scripts\activate
@@ -154,7 +154,7 @@ pip install -r requirements.txt
 Database Setup
 The application connects to the Chinook database. The Chinook database is a sample database that models a digital media store.
 
-##Download the Chinook Database:
+## Download the Chinook Database:
 Download the Chinook database from Chinook Database GitHub.
 Set up the database:
 Once you’ve downloaded the database file (usually a .sqlite file), place it in the project directory or update the connection settings to point to the correct location.
@@ -165,8 +165,9 @@ bash
 Copy code
 python app.py
 
-##Download the Postgres database
+## Download the Postgres database
 For postgres database, download the database
 Save the Northwind.sql file
+Run play_with_postgres.py
 Connect to database
 Run python app.py to test web interface with database
